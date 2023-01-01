@@ -1,5 +1,4 @@
-<<<<<<< shaman
+
 aaaaaaaaaaabde
-=======
-aaaaaaaaaaabd
->>>>>>> main
+
+
